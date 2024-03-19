@@ -4,7 +4,7 @@
     "base_url": "https://almostfreetours.vercel.app/",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
+    "favicon": "/images/FREE_Tours_Logo.png",
     "logo": "/images/FREE_Tours_Logo.png",
     "logo_width": "130",
     "logo_height": "51",
