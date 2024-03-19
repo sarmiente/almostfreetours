@@ -1,14 +1,14 @@
 {
   "site": {
-    "title": "Pinwheel Astro",
-    "base_url": "https://pinwheel-astro.vercel.app",
+    "title": "Almost Free Tours",
+    "base_url": "https://almostfreetours.vercel.app/",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_width": "147",
-    "logo_height": "31",
-    "logo_text": "Pinwheel"
+    "logo": "/images/FREE_Tours_Logo.png",
+    "logo_width": "130",
+    "logo_height": "51",
+    "logo_text": "Almost Free Tours"
   },
 
   "settings": {
@@ -18,10 +18,10 @@
   },
 
   "call_to_action": {
-    "title": "Helping teams in the world with focus",
-    "description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
+    "title": "Almost Free Tours",
+    "description": "Helping travelers to find the best guides and tour coupons around the world.",
     "button": {
-      "label": "Download The Theme",
+      "label": "Get a fre ticket",
       "link": "https://themefisher.com/astro-themes/pinwheel-astro"
     }
   },
